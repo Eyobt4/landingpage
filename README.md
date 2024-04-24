@@ -1,4 +1,5 @@
-# 🎍 Plantex
+# 🎍 GEBEREkOO
+
 - Responsive Plants Landing page Design Using HTML CSS &amp; JavaScript.
 - Contains animations when scrolling.
 - Contains minimalist Preloader animation.
