@@ -165,8 +165,13 @@ button {
   color: var(--title-color);
   font-weight: var(--font-bold);
   transition: 0.3s;
-}
 
+}
+.nav__logo img{
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+}
 .nav__logo i {
   color: var(--first-color);
   font-size: 1.2rem;
@@ -239,8 +244,14 @@ button {
   position: relative;
   padding-right: 5rem;
   display: flex;
+  border-radius: 50px;
 }
-
+.home__img img{
+  border-radius: 50%;
+  height: 500px;
+  /* width: 50%;
+  height: 50%; */
+}
 .home__social {
   position: absolute;
   right: -5.5rem;
@@ -286,6 +297,8 @@ button {
 
 .about__img {
   width: 380px;
+  height: 500px;
+  border-radius: 50px;
 }
 
 .about__title {
